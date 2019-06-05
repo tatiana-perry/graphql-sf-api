@@ -1,2 +1,3 @@
-Generated SF API documentation for GraphQL
-Used https://github.com/2fd/graphdoc to generate the markdown files and assets.
+- Generated SF API documentation for GraphQL
+- Used https://github.com/2fd/graphdoc to generate the markdown files and assets.
+- Just download or clone this repo, then open graphql/index.html
