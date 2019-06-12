@@ -3,6 +3,5 @@
     "graphdoc": {
         "endpoint": "https://tatiana.fun/graphql",
         "output": "graphql"
-    
-}
+    }
 }
